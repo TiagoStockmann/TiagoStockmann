@@ -67,19 +67,6 @@ Base em **Linux**, **Cloud (AWS e Azure)**, **Docker**, **Kubernetes**, **Terraf
 
 ---
 
-## Em evolução
-
-Áreas em que estou investindo estudo e prática agora. Os percentuais são uma estimativa pessoal de progresso.
-
-| Área | Progresso |
-|:--|:--|
-| Cloud (AWS / Azure) | ![](https://img.shields.io/badge/-40%25-0A66C2?style=for-the-badge) |
-| Kubernetes e Docker | ![](https://img.shields.io/badge/-45%25-326CE5?style=for-the-badge) |
-| Terraform e IaC | ![](https://img.shields.io/badge/-35%25-7B42BC?style=for-the-badge) |
-| Python e automação | ![](https://img.shields.io/badge/-45%25-3776AB?style=for-the-badge) |
-
----
-
 ## Projetos em destaque
 
 | | Projeto | Descrição | Stack |
