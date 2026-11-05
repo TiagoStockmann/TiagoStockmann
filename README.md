@@ -11,7 +11,6 @@
   <a href="https://www.linkedin.com/in/tiagostockmann"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:tiago.teixeirastockmann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <img src="https://img.shields.io/badge/S%C3%A3o%20Paulo-BR-30363D?style=for-the-badge" alt="São Paulo, Brasil" />
-  <img src="https://img.shields.io/badge/Aberto%20a%20oportunidades-2EA043?style=for-the-badge" alt="Aberto a oportunidades" />
 </p>
 
 ---
