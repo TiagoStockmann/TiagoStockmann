@@ -88,23 +88,6 @@ Base em **Linux**, **Cloud (AWS e Azure)**, **Docker**, **Kubernetes**, **Terraf
 
 ---
 
-## Atividade no GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TiagoStockmann&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoStockmann&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoStockmann&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TiagoStockmann&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
----
-
 ## Contato
 
 Quer trocar ideia sobre **backup, virtualização, storage, redes ou infraestrutura como código**? Me chama no [LinkedIn](https://www.linkedin.com/in/tiagostockmann) ou por [e-mail](mailto:tiago.teixeirastockmann@gmail.com).
